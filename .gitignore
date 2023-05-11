@@ -1,9 +1,3 @@
 *.aux
-*.fls
-*.out
-*.xdv
-*.synctex
-*.fdb_latexmk
 *.log
-*.synctex.gz
-*.vscode
+*.out
